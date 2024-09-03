@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pau Leyva García</h1>
 <h3 align="center">Computer Engineering Student at Universitat Autònoma de Barcelona (UAB)</h3>
-<p align="left">I'm updating my GitHub now</p>
+<p align="center">I'm updating my GitHub now</p>
 <p align="left">
 </p>
 
